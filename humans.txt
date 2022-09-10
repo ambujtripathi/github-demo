@@ -16,3 +16,9 @@
 This is new file
 
 This is another line I am adding into the human.txt
+
+This is adding another line for checking the diff between remote and local branches
+
+Another line
+
+Yet another line
