@@ -23,4 +23,6 @@ Another line
 
 Yet another line
 
+Yet anotheroskbdfk kbsdfh for disbaling the fast forward commit
+
 Yet yet another line to commit through the newbranch branch into main branch
