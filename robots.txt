@@ -1,5 +1,5 @@
 # www.robotstxt.org/
-
+#Adding some changes into robots.txt
 # Allow crawling of all content
 User-agent: *
 Disallow:
