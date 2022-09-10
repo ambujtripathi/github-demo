@@ -14,3 +14,5 @@
     HTML5, CSS3
     jQuery, Modernizr
 This is new file
+
+This is another line I am adding into the human.txt
