@@ -8,6 +8,7 @@
 # THANKS
 
     Git Tutorials
+    Ambuj Mani Tripathi
 
 # TECHNOLOGY COLOPHON
 
