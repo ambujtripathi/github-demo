@@ -6,7 +6,7 @@
     Ambuj - SSDE - Hyderabad
 
 # THANKS
-
+	Thanks to GitHub
     Git Tutorials
     Ambuj Mani Tripathi
 
