@@ -1,4 +1,5 @@
 # github-demo
+Adding another git stash list demo
 Simple demo repo
 Adding another line to merge into main branch
 Adding a line during rebase example
